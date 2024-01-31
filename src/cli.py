@@ -2,3 +2,4 @@
 2023-11-23 reduce noise
 2023-11-28 lint
 2024-01-23 drop unused import
+2024-01-31 move config to env
