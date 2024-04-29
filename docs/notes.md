@@ -2,3 +2,4 @@
 2024-01-31 lint
 2024-02-11 backoff on failure
 2024-04-24 wip 2
+2024-04-29 add retry on 429
