@@ -6,3 +6,4 @@
 2024-04-30 add retry on 429
 2024-05-19 add tests
 2024-05-23 move config to env
+2024-05-27 backoff on failure
