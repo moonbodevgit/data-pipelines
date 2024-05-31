@@ -7,3 +7,4 @@
 2024-05-19 add tests
 2024-05-23 move config to env
 2024-05-27 backoff on failure
+2024-05-31 bump deps
