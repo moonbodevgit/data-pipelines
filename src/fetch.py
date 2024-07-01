@@ -5,3 +5,4 @@
 2024-04-24 readme
 2024-05-24 bump deps
 2024-06-21 handle empty response
+2024-07-01 lint
