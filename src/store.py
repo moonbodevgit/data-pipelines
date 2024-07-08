@@ -4,3 +4,4 @@
 2024-02-11 handle empty response
 2024-06-21 dockerfile
 2024-06-29 move config to env
+2024-07-08 wip 2
