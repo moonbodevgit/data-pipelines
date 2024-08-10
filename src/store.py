@@ -6,3 +6,4 @@
 2024-06-29 move config to env
 2024-07-08 wip 2
 2024-07-15 move config to env
+2024-08-10 reduce noise
