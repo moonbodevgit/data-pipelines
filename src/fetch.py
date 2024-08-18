@@ -7,3 +7,4 @@
 2024-06-21 handle empty response
 2024-07-01 lint
 2024-08-18 log the raw payload
+2024-08-18 guard against None
