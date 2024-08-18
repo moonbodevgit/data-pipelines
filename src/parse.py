@@ -6,3 +6,4 @@
 2024-06-27 move config to env
 2024-07-13 pagination fix
 2024-08-15 revert
+2024-08-18 backoff on failure
