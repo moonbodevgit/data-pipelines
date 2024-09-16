@@ -10,3 +10,4 @@
 2024-08-18 guard against None
 2024-08-27 revert
 2024-09-16 fix timezone bug
+2024-09-16 guard against None
