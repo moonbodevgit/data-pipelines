@@ -9,3 +9,4 @@
 2024-08-18 wire up queue
 2024-08-22 readme
 2024-09-27 move config to env
+2024-10-07 typo
