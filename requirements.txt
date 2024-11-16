@@ -10,3 +10,4 @@
 2024-10-23 drop unused import
 2024-11-13 add tests
 2024-11-16 split the fetcher out
+2024-11-16 add cli flag
