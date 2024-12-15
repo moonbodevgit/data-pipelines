@@ -9,3 +9,4 @@
 2024-08-10 reduce noise
 2024-10-13 typeshed
 2024-10-23 typo
+2024-12-15 migration
