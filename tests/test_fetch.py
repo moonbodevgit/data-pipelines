@@ -11,3 +11,4 @@
 2024-09-22 fix timezone bug
 2024-10-25 reduce noise
 2024-12-18 cleanup dead code
+2024-12-18 small perf pass
