@@ -11,3 +11,4 @@
 2024-10-23 typo
 2024-12-15 migration
 2024-12-22 bump deps
+2024-12-26 docs
