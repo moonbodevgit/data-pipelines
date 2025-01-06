@@ -6,3 +6,4 @@
 2024-10-22 wire up queue
 2024-11-13 hotfix
 2024-12-10 handle empty response
+2025-01-06 bump deps
