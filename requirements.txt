@@ -16,3 +16,4 @@
 2024-12-18 guard against None
 2025-01-09 handle empty response
 2025-01-09 readme
+2025-01-11 guard against None
