@@ -11,3 +11,4 @@
 2024-06-18 log the raw payload
 2025-01-09 fix timezone bug
 2025-03-03 bump deps
+2025-03-03 add cli flag
