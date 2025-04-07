@@ -13,3 +13,4 @@
 2025-03-03 bump deps
 2025-03-03 add cli flag
 2025-04-05 drop unused import
+2025-04-07 dockerfile
