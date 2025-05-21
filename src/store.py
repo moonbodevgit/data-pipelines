@@ -17,3 +17,4 @@
 2025-04-10 hotfix
 2025-05-07 move config to env
 2025-05-20 add cli flag
+2025-05-21 dockerfile
