@@ -20,3 +20,4 @@
 2025-04-19 typo
 2025-05-08 log the raw payload
 2025-05-16 readme
+2025-05-27 typeshed
