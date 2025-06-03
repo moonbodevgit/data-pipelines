@@ -17,3 +17,4 @@
 2025-05-19 typo
 2025-05-19 wip
 2025-05-24 typeshed
+2025-06-03 move config to env
