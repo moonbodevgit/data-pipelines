@@ -10,3 +10,4 @@
 2025-04-23 backoff on failure
 2025-04-26 bump deps
 2025-05-08 split the fetcher out
+2025-06-09 refactor parser
