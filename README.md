@@ -8,3 +8,4 @@
 2024-12-10 handle empty response
 2025-01-06 bump deps
 2025-03-12 readme
+2025-06-09 pagination fix
