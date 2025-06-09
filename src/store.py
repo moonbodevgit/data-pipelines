@@ -19,3 +19,4 @@
 2025-05-20 add cli flag
 2025-05-21 dockerfile
 2025-05-31 wip
+2025-06-09 revert
