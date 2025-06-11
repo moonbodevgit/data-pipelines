@@ -16,3 +16,4 @@
 2024-12-18 dockerfile
 2024-12-27 metrics
 2025-04-03 wire up queue
+2025-06-11 add retry on 429
