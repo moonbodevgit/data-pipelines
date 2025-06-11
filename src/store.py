@@ -21,3 +21,4 @@
 2025-05-31 wip
 2025-06-09 revert
 2025-06-11 drop unused import
+2025-06-11 cache the lookups
