@@ -18,3 +18,4 @@
 2025-05-19 metrics
 2025-05-24 migration
 2025-06-09 typo
+2025-06-18 migration
