@@ -19,3 +19,4 @@
 2025-05-24 migration
 2025-06-09 typo
 2025-06-18 migration
+2025-06-19 log the raw payload
