@@ -18,3 +18,4 @@
 2025-04-03 wire up queue
 2025-06-11 add retry on 429
 2025-06-18 fix timezone bug
+2025-07-01 backoff on failure
