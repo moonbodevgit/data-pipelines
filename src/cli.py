@@ -17,3 +17,4 @@
 2025-04-17 add retry on 429
 2025-04-27 lint
 2025-05-24 docs
+2025-07-12 typeshed
