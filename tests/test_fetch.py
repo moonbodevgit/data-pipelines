@@ -20,3 +20,4 @@
 2025-06-09 typo
 2025-06-18 migration
 2025-06-19 log the raw payload
+2025-07-13 add cli flag
