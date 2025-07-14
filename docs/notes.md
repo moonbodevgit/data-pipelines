@@ -21,3 +21,4 @@
 2025-05-24 reduce noise
 2025-06-09 move config to env
 2025-06-11 readme
+2025-07-14 hotfix
