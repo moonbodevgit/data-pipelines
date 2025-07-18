@@ -22,3 +22,4 @@
 2025-06-09 move config to env
 2025-06-11 readme
 2025-07-14 hotfix
+2025-07-18 bump deps
