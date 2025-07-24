@@ -23,3 +23,4 @@
 2025-06-11 readme
 2025-07-14 hotfix
 2025-07-18 bump deps
+2025-07-24 refactor parser
