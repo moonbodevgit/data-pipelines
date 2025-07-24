@@ -27,3 +27,4 @@
 2025-07-13 bump deps
 2025-07-15 migration
 2025-07-18 add retry on 429
+2025-07-24 readme
