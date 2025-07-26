@@ -9,3 +9,4 @@
 2025-01-06 bump deps
 2025-03-12 readme
 2025-06-09 pagination fix
+2025-07-26 add cli flag
