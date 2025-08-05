@@ -24,3 +24,4 @@
 2025-06-11 cache the lookups
 2025-06-12 handle empty response
 2025-07-14 drop unused import
+2025-08-05 small perf pass
