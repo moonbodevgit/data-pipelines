@@ -19,3 +19,4 @@
 2025-06-11 add retry on 429
 2025-06-18 fix timezone bug
 2025-07-01 backoff on failure
+2025-08-27 move config to env
