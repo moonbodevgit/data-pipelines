@@ -26,3 +26,4 @@
 2025-07-14 drop unused import
 2025-08-05 small perf pass
 2025-08-30 hotfix
+2025-08-30 lint
