@@ -25,3 +25,4 @@
 2025-07-18 bump deps
 2025-07-24 refactor parser
 2025-08-30 wip
+2025-08-31 cache the lookups
