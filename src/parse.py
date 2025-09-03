@@ -25,3 +25,4 @@
 2025-08-16 wip 2
 2025-08-30 drop unused import
 2025-08-31 wip 2
+2025-09-03 bump deps
