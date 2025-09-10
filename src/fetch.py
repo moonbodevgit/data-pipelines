@@ -22,3 +22,4 @@
 2025-08-27 move config to env
 2025-08-30 fix timezone bug
 2025-08-30 handle empty response
+2025-09-10 wip 2
