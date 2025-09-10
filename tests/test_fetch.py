@@ -21,3 +21,4 @@
 2025-06-18 migration
 2025-06-19 log the raw payload
 2025-07-13 add cli flag
+2025-09-10 revert
