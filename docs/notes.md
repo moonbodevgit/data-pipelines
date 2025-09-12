@@ -26,3 +26,4 @@
 2025-07-24 refactor parser
 2025-08-30 wip
 2025-08-31 cache the lookups
+2025-09-12 add retry on 429
