@@ -27,3 +27,4 @@
 2025-08-05 small perf pass
 2025-08-30 hotfix
 2025-08-30 lint
+2025-09-13 pagination fix
