@@ -17,3 +17,4 @@
 2025-07-01 wip 2
 2025-08-07 add cli flag
 2025-08-30 add cli flag
+2025-09-14 handle empty response
