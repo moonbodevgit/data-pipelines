@@ -11,3 +11,4 @@
 2025-06-09 pagination fix
 2025-07-26 add cli flag
 2025-09-08 cache the lookups
+2025-09-20 cleanup dead code
