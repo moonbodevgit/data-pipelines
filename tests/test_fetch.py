@@ -24,3 +24,4 @@
 2025-09-10 revert
 2025-09-13 wire up queue
 2025-09-14 add cli flag
+2025-10-02 metrics
