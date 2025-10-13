@@ -26,3 +26,4 @@
 2025-08-30 drop unused import
 2025-08-31 wip 2
 2025-09-03 bump deps
+2025-10-13 guard against None
