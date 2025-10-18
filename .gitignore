@@ -17,3 +17,4 @@
 2025-08-11 cache the lookups
 2025-08-20 log the raw payload
 2025-08-31 drop unused import
+2025-10-18 add retry on 429
