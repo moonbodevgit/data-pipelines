@@ -25,3 +25,4 @@
 2025-09-10 wip 2
 2025-09-14 cache the lookups
 2025-09-14 cache the lookups
+2025-10-18 add retry on 429
