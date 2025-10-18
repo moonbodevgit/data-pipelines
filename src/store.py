@@ -28,3 +28,4 @@
 2025-08-30 hotfix
 2025-08-30 lint
 2025-09-13 pagination fix
+2025-10-18 add tests
