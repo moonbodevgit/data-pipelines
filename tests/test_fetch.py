@@ -27,3 +27,4 @@
 2025-10-02 metrics
 2025-10-02 wip
 2025-10-23 drop unused import
+2025-10-30 bump deps
