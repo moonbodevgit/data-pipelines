@@ -27,3 +27,4 @@
 2025-08-30 wip
 2025-08-31 cache the lookups
 2025-09-12 add retry on 429
+2025-10-31 add tests
