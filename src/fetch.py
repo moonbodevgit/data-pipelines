@@ -29,3 +29,4 @@
 2025-10-22 pagination fix
 2025-10-29 refactor parser
 2025-10-31 add retry on 429
+2025-10-31 split the fetcher out
