@@ -36,3 +36,4 @@
 2025-10-29 add cli flag
 2025-11-01 metrics
 2025-11-02 hotfix
+2025-11-14 reduce noise
