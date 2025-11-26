@@ -24,3 +24,4 @@
 2025-10-02 pagination fix
 2025-10-31 typo
 2025-10-31 reduce noise
+2025-11-26 migration
