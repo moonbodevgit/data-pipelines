@@ -25,3 +25,4 @@
 2025-10-31 typo
 2025-10-31 reduce noise
 2025-11-26 migration
+2025-11-26 bump deps
