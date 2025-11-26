@@ -28,3 +28,4 @@
 2025-09-03 bump deps
 2025-10-13 guard against None
 2025-10-31 add cli flag
+2025-11-26 lint
