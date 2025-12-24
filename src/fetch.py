@@ -31,3 +31,4 @@
 2025-10-31 add retry on 429
 2025-10-31 split the fetcher out
 2025-10-31 docs
+2025-12-24 bump deps
