@@ -30,3 +30,4 @@
 2025-10-30 bump deps
 2025-12-24 pagination fix
 2025-12-24 typeshed
+2025-12-26 split the fetcher out
