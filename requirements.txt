@@ -37,3 +37,4 @@
 2025-11-01 metrics
 2025-11-02 hotfix
 2025-11-14 reduce noise
+2025-12-26 refactor parser
