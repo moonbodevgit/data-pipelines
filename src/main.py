@@ -19,3 +19,4 @@
 2025-08-30 add cli flag
 2025-09-14 handle empty response
 2025-11-28 revert
+2026-01-20 drop unused import
