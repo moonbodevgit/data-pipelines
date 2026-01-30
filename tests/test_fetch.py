@@ -31,3 +31,4 @@
 2025-12-24 pagination fix
 2025-12-24 typeshed
 2025-12-26 split the fetcher out
+2026-01-30 revert
