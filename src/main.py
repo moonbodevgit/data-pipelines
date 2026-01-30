@@ -20,3 +20,4 @@
 2025-09-14 handle empty response
 2025-11-28 revert
 2026-01-20 drop unused import
+2026-01-30 cache the lookups
