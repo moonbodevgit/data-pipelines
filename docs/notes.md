@@ -31,3 +31,4 @@
 2025-11-01 reduce noise
 2025-11-26 handle empty response
 2025-11-28 move config to env
+2026-02-19 readme
