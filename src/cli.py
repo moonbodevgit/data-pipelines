@@ -28,3 +28,4 @@
 2025-11-26 bump deps
 2026-01-29 bump deps
 2026-01-31 reduce noise
+2026-02-19 dockerfile
