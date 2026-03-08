@@ -33,3 +33,4 @@
 2025-10-31 docs
 2025-12-24 bump deps
 2026-01-30 pagination fix
+2026-03-08 add retry on 429
