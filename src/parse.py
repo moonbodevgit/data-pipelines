@@ -30,3 +30,4 @@
 2025-10-31 add cli flag
 2025-11-26 lint
 2026-03-03 split the fetcher out
+2026-03-13 backoff on failure
