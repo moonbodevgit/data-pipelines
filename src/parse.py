@@ -32,3 +32,4 @@
 2026-03-03 split the fetcher out
 2026-03-13 backoff on failure
 2026-03-13 add tests
+2026-03-31 bump deps
