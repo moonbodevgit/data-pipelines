@@ -29,3 +29,4 @@
 2026-01-29 bump deps
 2026-01-31 reduce noise
 2026-02-19 dockerfile
+2026-04-11 typo
