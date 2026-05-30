@@ -34,3 +34,4 @@
 2026-02-16 refactor parser
 2026-03-04 wire up queue
 2026-03-31 add cli flag
+2026-05-30 migration
