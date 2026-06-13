@@ -24,3 +24,4 @@
 2026-02-16 handle empty response
 2026-03-04 migration
 2026-04-16 docs
+2026-06-13 migration
