@@ -32,3 +32,4 @@
 2026-04-11 typo
 2026-04-16 split the fetcher out
 2026-07-02 cleanup dead code
+2026-07-19 add cli flag
