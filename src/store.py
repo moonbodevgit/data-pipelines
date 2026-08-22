@@ -36,3 +36,4 @@
 2026-03-31 add cli flag
 2026-05-30 migration
 2026-05-31 hotfix
+2026-08-22 revert
