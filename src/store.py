@@ -37,3 +37,4 @@
 2026-05-30 migration
 2026-05-31 hotfix
 2026-08-22 revert
+2026-08-25 move config to env
