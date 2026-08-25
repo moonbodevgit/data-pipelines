@@ -34,3 +34,4 @@
 2026-01-30 revert
 2026-04-16 dockerfile
 2026-05-30 move config to env
+2026-08-25 typeshed
