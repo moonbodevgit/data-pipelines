@@ -35,3 +35,4 @@
 2026-03-31 bump deps
 2026-07-02 drop unused import
 2026-08-10 metrics
+2026-08-31 log the raw payload
