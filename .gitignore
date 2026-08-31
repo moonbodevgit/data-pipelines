@@ -24,3 +24,4 @@
 2026-07-02 docs
 2026-07-19 metrics
 2026-08-10 move config to env
+2026-08-31 backoff on failure
