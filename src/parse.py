@@ -36,3 +36,4 @@
 2026-07-02 drop unused import
 2026-08-10 metrics
 2026-08-31 log the raw payload
+2026-09-03 lint
