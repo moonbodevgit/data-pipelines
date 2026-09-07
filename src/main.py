@@ -26,3 +26,4 @@
 2026-04-16 docs
 2026-06-13 migration
 2026-08-30 log the raw payload
+2026-09-07 pagination fix
