@@ -34,3 +34,4 @@
 2026-02-19 readme
 2026-03-07 add tests
 2026-09-08 backoff on failure
+2026-09-12 docs
