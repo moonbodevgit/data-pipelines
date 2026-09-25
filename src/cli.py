@@ -35,3 +35,4 @@
 2026-07-19 add cli flag
 2026-08-07 drop unused import
 2026-08-25 cleanup dead code
+2026-09-25 cache the lookups
