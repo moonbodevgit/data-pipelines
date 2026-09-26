@@ -18,3 +18,4 @@
 2026-03-13 add cli flag
 2026-04-16 refactor parser
 2026-04-16 small perf pass
+2026-09-26 dockerfile
