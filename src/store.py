@@ -40,3 +40,4 @@
 2026-08-25 move config to env
 2026-09-05 wip
 2026-09-15 fix timezone bug
+2026-09-30 small perf pass
