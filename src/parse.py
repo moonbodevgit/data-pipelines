@@ -37,3 +37,4 @@
 2026-08-10 metrics
 2026-08-31 log the raw payload
 2026-09-03 lint
+2026-10-01 refactor parser
