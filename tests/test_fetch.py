@@ -37,3 +37,4 @@
 2026-08-25 typeshed
 2026-09-12 reduce noise
 2026-09-30 wip 2
+2026-10-01 guard against None
