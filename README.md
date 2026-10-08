@@ -19,3 +19,4 @@
 2026-04-16 refactor parser
 2026-04-16 small perf pass
 2026-09-26 dockerfile
+2026-10-08 move config to env
