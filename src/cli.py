@@ -36,3 +36,4 @@
 2026-08-07 drop unused import
 2026-08-25 cleanup dead code
 2026-09-25 cache the lookups
+2026-10-16 cache the lookups
