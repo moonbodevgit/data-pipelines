@@ -44,3 +44,4 @@
 2026-10-07 cache the lookups
 2026-10-13 guard against None
 2026-10-18 reduce noise
+2026-10-18 cache the lookups
