@@ -43,3 +43,4 @@
 2026-09-30 small perf pass
 2026-10-07 cache the lookups
 2026-10-13 guard against None
+2026-10-18 reduce noise
