@@ -35,3 +35,4 @@
 2026-01-30 pagination fix
 2026-03-08 add retry on 429
 2026-08-23 typeshed
+2026-10-25 log the raw payload
